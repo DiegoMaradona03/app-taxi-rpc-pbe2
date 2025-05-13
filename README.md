@@ -7,7 +7,7 @@ Exemplo do projeto de uma API de texi utilizando o framework Node.js e o banco d
 - Prisma (ORM)
 - XAMPP (IDE) SGBD MySQL
 ## Estrutura do Projeto
-![dc](./docs/dc.png)
+![dc](./assets/dc.png)
 ##
 
 ## Passo a passo para testar
