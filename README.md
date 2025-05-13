@@ -16,7 +16,6 @@ Exemplo do projeto de uma API de texi utilizando o framework Node.js e o banco d
 - 3 Criar o arquivo **.env** na pasta API contendo:
 ```js
 DATABASE_URL="mysql://root@localhost:3306/app88taxi"
-PORT=4545
 ```
 - Obs: certifique-se de não ter um banco de dados chamado **pizzaria** no seu MySQL.
 - 4 Abrir o XAMPP e dar start em MySQL
